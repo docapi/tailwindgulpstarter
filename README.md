@@ -18,7 +18,6 @@ npm install
 
 Edit files in src-Folder. Just play with TailwindCSS and modify the index.html.
 
-Say what the step will be
 
 ```
 gulp
