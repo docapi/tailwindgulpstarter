@@ -1,6 +1,6 @@
 # TailwindCSS Starter with Gulp
 
-A simple starter project with TailwindCSS. CSS Code gets purged and minified. Word is done with Gulp.
+A simple starter project with TailwindCSS. CSS Code gets purged and minified. Work is done with Gulp.
 
 ## Getting Started
 
@@ -24,9 +24,5 @@ Say what the step will be
 gulp
 ```
 
-
-## Authors
-
-* **Alex Pisculla** - *Initial work* - [docapi](https://github.com/docapi)
 
 
