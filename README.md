@@ -14,6 +14,8 @@ Install all packages
 npm install
 ```
 
+Check if CLI version and Local Version of gulp are correct (see https://gulpjs.com/docs/en/getting-started/quick-start)
+ 
 ### Installing
 
 Edit files in src-Folder. Just play with TailwindCSS and modify the index.html.
